@@ -4,9 +4,12 @@
       "answers": [
         "key\u2019 : \u2018value\u2019",
         "key = \u2018value\u2019",
+        "\u201ckey\u201d : \u201cvalue\u201d",
         "key = \u201cvalue\u201d"
       ],
-      "correct": {},
+      "correct": {
+        "index": 2
+      },
       "number": 1,
       "prompt": "JSON key/value pair is written as?"
     },
@@ -22,16 +25,11 @@
     },
     {
       "answers": [
-        "pre-defined tags",
-        "user defined tags",
-        "case sensitive",
-        "case insensitive"
+        "pre-defined tags"
       ],
-      "correct": {
-        "index": 2
-      },
+      "correct": {},
       "number": 3,
-      "prompt": "Pick 3: What two items below are necessary when building xml?"
+      "prompt": "Which kind of tags does XML support?"
     }
   ],
   "title": "Data Types",

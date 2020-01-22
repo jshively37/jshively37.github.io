@@ -7,19 +7,12 @@ url: https://jshively37.github.io/
 1) JSON key/value pair is written as?
   - key’ : ‘value’
   - key = ‘value’
-  - key = “value”
   * “key” : “value”
+  - key = “value”
 
 2) True or False: JSON is lighter and faster than XML?
   * True
   - False
-
-3) Pick 2: What two items below are necessary when building xml?
+3) Which kind of tags does XML support?
   - pre-defined tags
   * user defined tags
-  * case sensitive
-  - case insensitive
-
-
-
-
