@@ -1,0 +1,13 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: https://jshively37.github.io/
+
+// this is the title of the quiz
+# Data Types
+
+1) Is this { "key" : "value" } valid JSON?
+  - True
+  * False
