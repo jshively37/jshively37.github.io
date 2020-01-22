@@ -4,8 +4,22 @@ url: https://jshively37.github.io/
 // this is the title of the quiz
 # Data Types
 
-1) Is this valid JSON {"key": "value'}?
-  - True
-  * False
+1) JSON key/value pair is written as?
+  - key’ : ‘value’
+  - key = ‘value’
+  - key = “value”
+  * “key” : “value”
+
+2) True or False: JSON is lighter and faster than XML?
+  * True
+  - False
+
+3) Pick 2: What two items below are necessary when building xml?
+  - pre-defined tags
+  * user defined tags
+  * case sensitive
+  - case insensitive
+
+
 
 

@@ -2,14 +2,36 @@
   "questions": [
     {
       "answers": [
-        "True",
-        "False"
+        "key\u2019 : \u2018value\u2019",
+        "key = \u2018value\u2019",
+        "key = \u201cvalue\u201d"
+      ],
+      "correct": {},
+      "number": 1,
+      "prompt": "JSON key/value pair is written as?"
+    },
+    {
+      "answers": [
+        "True"
       ],
       "correct": {
-        "index": 1
+        "index": 0
       },
-      "number": 1,
-      "prompt": "Is this valid JSON {\"key\": \"value'}?"
+      "number": 2,
+      "prompt": "True or False: JSON is lighter and faster than XML?"
+    },
+    {
+      "answers": [
+        "pre-defined tags",
+        "user defined tags",
+        "case sensitive",
+        "case insensitive"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Pick 3: What two items below are necessary when building xml?"
     }
   ],
   "title": "Data Types",
