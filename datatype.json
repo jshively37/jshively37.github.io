@@ -15,7 +15,8 @@
     },
     {
       "answers": [
-        "True"
+        "True",
+        "False"
       ],
       "correct": {
         "index": 0
@@ -25,9 +26,12 @@
     },
     {
       "answers": [
-        "pre-defined tags"
+        "pre-defined tags",
+        "user defined tags"
       ],
-      "correct": {},
+      "correct": {
+        "index": 0
+      },
       "number": 3,
       "prompt": "Which kind of tags does XML support?"
     }
