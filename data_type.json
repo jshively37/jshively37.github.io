@@ -4,9 +4,21 @@
       "answers": [
         "True"
       ],
-      "correct": {},
+      "correct": {
+        "index": 0
+      },
       "number": 1,
-      "prompt": "Is this { \"key\" : \"value\" } valid JSON?"
+      "prompt": "Is this valid JSON?"
+    },
+    {
+      "answers": [
+        "True"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "Is this <xml>Test</xml> valid XML?"
     }
   ],
   "title": "Data Types",

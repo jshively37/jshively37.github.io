@@ -8,6 +8,10 @@ url: https://jshively37.github.io/
 // this is the title of the quiz
 # Data Types
 
-1) Is this { "key" : "value" } valid JSON?
-  - True
-  * False
+1) Is this valid JSON?
+  * True
+  - False
+
+2) Is this <xml>Test</xml> valid XML?
+  * True
+  - False
