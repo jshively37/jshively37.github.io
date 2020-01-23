@@ -2,38 +2,15 @@
   "questions": [
     {
       "answers": [
-        "key\u2019 : \u2018value\u2019",
-        "key = \u2018value\u2019",
-        "\u201ckey\u201d : \u201cvalue\u201d",
-        "key = \u201cvalue\u201d"
+        "TDD relies on an extended but collaborative development cycle",
+        "TDD requirements are developed after initial tests",
+        "TDD relies on the repetition of a very short development cycle"
       ],
       "correct": {
         "index": 2
       },
       "number": 1,
-      "prompt": "JSON key/value pair is written as?"
-    },
-    {
-      "answers": [
-        "True",
-        "False"
-      ],
-      "correct": {
-        "index": 0
-      },
-      "number": 2,
-      "prompt": "True or False: JSON is lighter and faster than XML?"
-    },
-    {
-      "answers": [
-        "pre-defined tags",
-        "user defined tags"
-      ],
-      "correct": {
-        "index": 0
-      },
-      "number": 3,
-      "prompt": "Which kind of tags does XML support?"
+      "prompt": "Which of the following is True?"
     }
   ],
   "title": "Data Types",

@@ -4,15 +4,8 @@ url: https://jshively37.github.io/
 // this is the title of the quiz
 # Data Types
 
-1) JSON key/value pair is written as?
-  - key’ : ‘value’
-  - key = ‘value’
-  * “key” : “value”
-  - key = “value”
-
-2) True or False: JSON is lighter and faster than XML?
-  * True
-  - False
-3) Which kind of tags does XML support?
-  - pre-defined tags
-  * user defined tags
+1) Which of the following is True?
+  - TDD relies on an extended but collaborative development cycle
+  - TDD requirements are developed after initial tests
+  * TDD relies on the repetition of a very short development cycle
+  - TDD requirements are optional
