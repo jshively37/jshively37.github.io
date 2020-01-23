@@ -1,0 +1,121 @@
+// this is the url for the parent
+url: https://jshively37.github.io/
+
+// this is the title of the quiz
+# API
+
+1) Which is not a HTTP Verb?
+  - GET
+  - POST
+  - PUT
+  * REQUEST
+  - PATCH
+
+
+2) A 2xx HTTP response code indicates redirection?
+  - True
+  * False
+
+
+3) A 4xx HTTP response code indicates client error?
+  * True
+  - False
+
+
+4) A HTTP Response contains response code, headers, and body?
+  * True
+  - False
+
+
+5) A syncronous API will generate a status code 202?
+  - True
+  * False
+
+
+6) REST stands for?
+  * Representational State Transfer
+  - REST Assured API
+  - Rest Interface
+  - Representational Status Transfer
+
+
+7) What category does 1xx HTTP codes belong to?
+  - redirection
+  - successs
+  * informational
+  - client error
+
+
+8) What is not a constraint of API?
+  - Uniform Interface
+  - Stateless
+  * Stateful
+  - Cacheable
+  - Client-Server
+  - Layered System
+  - Code on demand
+
+
+9) Base64 is used in basic API authentication for security?
+  - True
+  * False
+
+
+9) API keys are generated every time a user logs in?
+  - True
+  * False
+
+
+10) Syncronous API wait for data to be returned before proceeding?
+  * True
+  - False
+
+
+11) Which of the following HTTP status codes means INTERNAL SERVER ERROR?
+  * 500
+  - 401
+  - 404
+  - 409
+
+
+12) NETCONF is an example of a ___ call?
+  - REST
+  * RPC
+
+
+12) Type of API that is resource oriented and makes use or URI and HTTP verbs in order to perform actions against a resource?
+  - syncronous
+  * REST
+  - Asynchronous
+  - RPC
+
+
+13) Webhooks allow one application to send an event based notifcation to another application via HTTP.
+  * True
+  - False
+
+
+14) The python requests library is part of the default python package?
+  - True
+  * False
+
+
+15) Which HTTP verb is used for updating a resource?
+  - GET
+  - POST
+  * PUT
+  - DELETE
+
+
+16) Which part of a HTTP response contains metadata about the device?
+  - Response code
+  * Headers
+  - Body
+
+
+17) Each API request must contain all the information necessary to be understood by the server?
+  * True
+  - False
+
+
+//end

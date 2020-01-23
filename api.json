@@ -1,0 +1,224 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "GET",
+        "POST",
+        "PUT",
+        "REQUEST",
+        "PATCH"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 1,
+      "prompt": "Which is not a HTTP Verb?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "A 2xx HTTP response code indicates redirection?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 3,
+      "prompt": "A 4xx HTTP response code indicates client error?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 4,
+      "prompt": "A HTTP Response contains response code, headers, and body?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "A syncronous API will generate a status code 202?"
+    },
+    {
+      "answers": [
+        "Representational State Transfer",
+        "REST Assured API",
+        "Rest Interface",
+        "Representational Status Transfer"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "REST stands for?"
+    },
+    {
+      "answers": [
+        "redirection",
+        "successs",
+        "informational",
+        "client error"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "What category does 1xx HTTP codes belong to?"
+    },
+    {
+      "answers": [
+        "Uniform Interface",
+        "Stateless",
+        "Stateful",
+        "Cacheable",
+        "Client-Server",
+        "Layered System",
+        "Code on demand"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "What is not a constraint of API?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "Base64 is used in basic API authentication for security?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "API keys are generated every time a user logs in?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "Syncronous API wait for data to be returned before proceeding?"
+    },
+    {
+      "answers": [
+        "500",
+        "401",
+        "404",
+        "409"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 11,
+      "prompt": "Which of the following HTTP status codes means INTERNAL SERVER ERROR?"
+    },
+    {
+      "answers": [
+        "REST",
+        "RPC"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "NETCONF is an example of a ___ call?"
+    },
+    {
+      "answers": [
+        "syncronous",
+        "REST",
+        "Asynchronous",
+        "RPC"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "Type of API that is resource oriented and makes use or URI and HTTP verbs in order to perform actions against a resource?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 14,
+      "prompt": "The python requests library is part of the default python package?"
+    },
+    {
+      "answers": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 15,
+      "prompt": "Which HTTP verb is used for updating a resource?"
+    },
+    {
+      "answers": [
+        "Response code",
+        "Headers",
+        "Body"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 16,
+      "prompt": "Which part of a HTTP response contains metadata about the device?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "//end"
+      },
+      "number": 17,
+      "prompt": "Each API request must contain all the information necessary to be understood by the server?"
+    }
+  ],
+  "title": "API",
+  "url": "https://jshively37.github.io/"
+}
