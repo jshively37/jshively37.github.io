@@ -60,16 +60,16 @@
     },
     {
       "answers": [
-        "1",
-        "2",
-        "4",
-        "No requirements for spacing"
+        "Spacing",
+        "Tabs",
+        "Either spacing or tabs"
       ],
       "correct": {
-        "index": 3
+        "index": 0,
+        "text": "YAML does not support tabs in yaml files: https://yaml.org/faq.html"
       },
       "number": 6,
-      "prompt": "How many spaces does YAML require?"
+      "prompt": "YAML supports using ___ for indentation when formatting yaml files?"
     },
     {
       "answers": [
