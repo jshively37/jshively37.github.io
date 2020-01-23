@@ -8,7 +8,8 @@
         "name : \"value\""
       ],
       "correct": {
-        "index": 2
+        "index": 2,
+        "text": "JSON name and value are surrounded by \" \". ' ' is not allowed."
       },
       "number": 1,
       "prompt": "JSON name/value pairs are represented as?"
@@ -120,7 +121,7 @@
       "correct": {
         "index": 0
       },
-      "number": 11,
+      "number": 10,
       "prompt": "What is used to start JSON?"
     },
     {
@@ -131,11 +132,22 @@
         "<>"
       ],
       "correct": {
-        "index": 3,
-        "text": "// End"
+        "index": 3
+      },
+      "number": 11,
+      "prompt": "What is used to start XML?"
+    },
+    {
+      "answers": [
+        "Spaces",
+        "Tabs"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Tabs have been outlawed since they are treated differently by different editors and tools. https://yaml.org/faq.html"
       },
       "number": 12,
-      "prompt": "What is used to start XML?"
+      "prompt": "Which one of the following is not allowed for indentation in yaml files?"
     }
   ],
   "title": "Data Formats",

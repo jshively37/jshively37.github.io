@@ -10,6 +10,8 @@ url: https://jshively37.github.io/
   * "name" : "value"
   - name : "value"
 
+  JSON name and value are surrounded by " ". ' ' is not allowed.
+
 
 2) JSON is lighter and faster than XML?
   * True
@@ -60,17 +62,25 @@ url: https://jshively37.github.io/
   - { }, hello, “false”, “0”
 
 
-11) What is used to start JSON?
+10) What is used to start JSON?
   * {
   - [
   - "
   - <>
 
 
-12) What is used to start XML?
+11) What is used to start XML?
   - {
   - [
   - "
   * <>
+
+
+12) Which one of the following is not allowed for indentation in yaml files?
+  - Spaces
+  * Tabs
+
+  Tabs have been outlawed since they are treated differently by different editors and tools. https://yaml.org/faq.html
+
 
   // End
