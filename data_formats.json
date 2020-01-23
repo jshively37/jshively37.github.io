@@ -37,11 +37,11 @@
     },
     {
       "answers": [
-        "False",
-        "True"
+        "True",
+        "False"
       ],
       "correct": {
-        "index": 0
+        "index": 1
       },
       "number": 4,
       "prompt": "XML only supports pre-defined tags?"
@@ -125,30 +125,30 @@
     },
     {
       "answers": [
-        "{}",
-        "[]",
-        "\" \"",
-        "<> </>"
+        "{",
+        "[",
+        "\"",
+        "<>"
       ],
       "correct": {
         "index": 0
       },
       "number": 11,
-      "prompt": "What is used to start and end JSON?"
+      "prompt": "What is used to start JSON?"
     },
     {
       "answers": [
-        "{}",
-        "[]",
-        "\" \"",
-        "<> </>"
+        "{",
+        "[",
+        "\"",
+        "<>"
       ],
       "correct": {
         "index": 3,
         "text": "// End"
       },
       "number": 12,
-      "prompt": "What character is used to start and end XML?"
+      "prompt": "What is used to start XML?"
     }
   ],
   "title": "Data Formats",
