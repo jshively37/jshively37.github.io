@@ -32,36 +32,28 @@ url: https://jshively37.github.io/
   * JSON
 
 
-6) YAML supports using ___ for indentation when formatting yaml files?
-  * Spacing
-  - Tabs
-  - Either spacing or tabs
-
-  YAML does not support tabs in yaml files: https://yaml.org/faq.html
-
-
-7) What characters are used to indicate an array in JSON?
+6) What characters are used to indicate an array in JSON?
   * []
   - {}
   - ()
   - JSON does not support arrays
 
 
-8) How many root elements are allowed in XML?
+7) How many root elements are allowed in XML?
   * 1
   - 2
   - 3
   - 4
 
 
-9) What special character is not used in XML?
+8) What special character is not used in XML?
   - >
   - <
   - &
   * $
 
 
-10) In JSON which answer represents the following: Object, String, Boolean, Integer?
+9) In JSON which answer represents the following: Object, String, Boolean, Integer?
   - “{ }”, “a string”, “false”, “0”
   - [ ], 0, “true”, “0
   * { }, “0”, false, 0

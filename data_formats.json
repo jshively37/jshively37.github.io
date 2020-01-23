@@ -60,19 +60,6 @@
     },
     {
       "answers": [
-        "Spacing",
-        "Tabs",
-        "Either spacing or tabs"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "YAML does not support tabs in yaml files: https://yaml.org/faq.html"
-      },
-      "number": 6,
-      "prompt": "YAML supports using ___ for indentation when formatting yaml files?"
-    },
-    {
-      "answers": [
         "[]",
         "{}",
         "()",
@@ -81,7 +68,7 @@
       "correct": {
         "index": 0
       },
-      "number": 7,
+      "number": 6,
       "prompt": "What characters are used to indicate an array in JSON?"
     },
     {
@@ -94,7 +81,7 @@
       "correct": {
         "index": 0
       },
-      "number": 8,
+      "number": 7,
       "prompt": "How many root elements are allowed in XML?"
     },
     {
@@ -107,7 +94,7 @@
       "correct": {
         "index": 3
       },
-      "number": 9,
+      "number": 8,
       "prompt": "What special character is not used in XML?"
     },
     {
@@ -120,7 +107,7 @@
       "correct": {
         "index": 2
       },
-      "number": 10,
+      "number": 9,
       "prompt": "In JSON which answer represents the following: Object, String, Boolean, Integer?"
     },
     {
