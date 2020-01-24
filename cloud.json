@@ -1,0 +1,135 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "SaaS",
+        "PaaS",
+        "IaaS",
+        "Private Cloud"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "Salesforce is an example of?"
+    },
+    {
+      "answers": [
+        "SaaS",
+        "PaaS",
+        "IaaS"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "A ___ vendor provides hardware and software tools over the Internet, and people use these tools to develop applcations?"
+    },
+    {
+      "answers": [
+        "A blend of public and private clouds services with orchestration between them",
+        "A cloud service deployed across multiple offices or locations",
+        "A blend of private cloud and legacy on-premises hardware"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 3,
+      "prompt": "What is a hybrid cloud?"
+    },
+    {
+      "answers": [
+        "Moving compute and storage resources closer to a public cloud provider.",
+        "Bringing compute and data storage closer to the location where it is needed.",
+        "Public and private cloud coming together.",
+        "Utilizing containers for hosting legacy applications."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "//Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing"
+      },
+      "number": 4,
+      "prompt": "Edge computing is defined as?"
+    },
+    {
+      "answers": [
+        "applications",
+        "data",
+        "storage",
+        "middleware",
+        "runtime"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "//https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/"
+      },
+      "number": 5,
+      "prompt": "____ is a layer you do not manage in IaaS?"
+    },
+    {
+      "answers": [
+        "IaaS",
+        "SaaS",
+        "OaaS",
+        "PaaS"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 6,
+      "prompt": "Which of the following is not a cloud model?"
+    },
+    {
+      "answers": [
+        "IaaS",
+        "SaaS",
+        "HaaS",
+        "PaaS"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "//https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/"
+      },
+      "number": 7,
+      "prompt": "In ____ cloud model you outsource only your hardware needs to a cloud provider?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 8,
+      "prompt": "A public cloud is the cloud infrastructure that is provisioned for open use by the general public?"
+    },
+    {
+      "answers": [
+        "Public Cloud",
+        "Private Cloud",
+        "Hybrid Cloud",
+        "Segregated Cloud"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 9,
+      "prompt": "What is not a type of cloud service?"
+    },
+    {
+      "answers": [
+        "Public Cloud",
+        "Private cloud"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "//end"
+      },
+      "number": 10,
+      "prompt": "Sensitive/regulatory data is best suited for?"
+    }
+  ],
+  "title": "Cloud",
+  "url": "https://jshively37.github.io/"
+}

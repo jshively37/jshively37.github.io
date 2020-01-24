@@ -1,0 +1,78 @@
+// this is the url for the parent
+url: https://jshively37.github.io/
+
+// this is the title of the quiz
+# Cloud
+
+
+1) Salesforce is an example of?
+  * SaaS
+  - PaaS
+  - IaaS
+  - Private Cloud
+
+
+2) A ___ vendor provides hardware and software tools over the Internet, and people use these tools to develop applcations?
+  - SaaS
+  * PaaS
+  - IaaS
+
+
+3) What is a hybrid cloud?
+  * A blend of public and private clouds services with orchestration between them
+  - A cloud service deployed across multiple offices or locations
+  - A blend of private cloud and legacy on-premises hardware
+
+
+4) Edge computing is defined as?
+  - Moving compute and storage resources closer to a public cloud provider.
+  * Bringing compute and data storage closer to the location where it is needed.
+  - Public and private cloud coming together.
+  - Utilizing containers for hosting legacy applications.
+
+  //Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing
+
+
+5) ____ is a layer you do not manage in IaaS?
+  - applications
+  - data
+  * storage
+  - middleware
+  - runtime
+
+  //https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/
+
+
+6) Which of the following is not a cloud model?
+  - IaaS
+  - SaaS
+  * OaaS
+  - PaaS
+
+
+7) In ____ cloud model you outsource only your hardware needs to a cloud provider?
+  * IaaS
+  - SaaS
+  - HaaS
+  - PaaS
+
+  //https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/
+
+
+8) A public cloud is the cloud infrastructure that is provisioned for open use by the general public?
+  * True
+  - False
+
+
+9) What is not a type of cloud service?
+  - Public Cloud
+  - Private Cloud
+  - Hybrid Cloud
+  * Segregated Cloud
+
+
+10) Sensitive/regulatory data is best suited for?
+  - Public Cloud
+  * Private cloud
+
+  //end
