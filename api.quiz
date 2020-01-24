@@ -27,7 +27,7 @@ url: https://jshively37.github.io/
   - False
 
 
-5) A syncronous API will generate a status code 202?
+5) A synchronous API will generate a status code 202?
   - True
   * False
 
@@ -66,7 +66,7 @@ url: https://jshively37.github.io/
   * False
 
 
-10) Syncronous API wait for data to be returned before proceeding?
+10) Synchronous API wait for data to be returned before proceeding?
   * True
   - False
 
@@ -84,7 +84,7 @@ url: https://jshively37.github.io/
 
 
 12) Type of API that is resource oriented and makes use or URI and HTTP verbs in order to perform actions against a resource?
-  - syncronous
+  - synchronous
   * REST
   - Asynchronous
   - RPC
