@@ -30,10 +30,10 @@ url: https://jshively37.github.io/
   - Public and private cloud coming together.
   - Utilizing containers for hosting legacy applications.
 
-  //Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing
+  Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing
 
 
-5) ____ is a layer you do not manage in IaaS?
+5) Which layer does the customer not manage in IaaS?
   - applications
   - data
   * storage
@@ -56,7 +56,7 @@ url: https://jshively37.github.io/
   - HaaS
   - PaaS
 
-  //https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/
+  https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/
 
 
 8) A public cloud is the cloud infrastructure that is provisioned for open use by the general public?
@@ -75,4 +75,4 @@ url: https://jshively37.github.io/
   - Public Cloud
   * Private cloud
 
-  //end
+  end

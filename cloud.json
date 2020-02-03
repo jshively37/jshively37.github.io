@@ -46,7 +46,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "//Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing"
+        "text": "Edge computing is a distributed computing paradigm which brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth. https://en.wikipedia.org/wiki/Edge_computing"
       },
       "number": 4,
       "prompt": "Edge computing is defined as?"
@@ -64,7 +64,7 @@
         "text": "//https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/"
       },
       "number": 5,
-      "prompt": "____ is a layer you do not manage in IaaS?"
+      "prompt": "Which layer does the customer not manage in IaaS?"
     },
     {
       "answers": [
@@ -88,7 +88,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "//https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/"
+        "text": "https://venturebeat.com/2011/11/14/cloud-iaas-paas-saas/"
       },
       "number": 7,
       "prompt": "In ____ cloud model you outsource only your hardware needs to a cloud provider?"
@@ -124,7 +124,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "//end"
+        "text": "end"
       },
       "number": 10,
       "prompt": "Sensitive/regulatory data is best suited for?"
