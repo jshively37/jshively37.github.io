@@ -1,0 +1,78 @@
+// this is the url for the parent
+url: https://jshively37.github.io/
+
+// this is the title of the quiz
+# Git
+
+1) Which of the following is the correct way to initialize a new Git repository?
+  - git add .
+  - git commit
+  * git init
+  - git bash
+
+
+2) Which git command do you use to upload local repository content to a remote repository?
+  - git pull
+  * git push
+  - git commit
+  - git fetch
+
+
+3) Which command would you use to stage a single file called called my_awesome_script.py so we can commit it?
+  - git add .
+  * git add my_awesome_script.py
+  - git add new
+  - git push my_awesome_script.py
+
+  git add . will work but the request was just for a single file.
+
+
+4) How you create a new commit with the message "Bugfix #1"?
+  - git commit .
+  - git commit "Bugfix #1"
+  * git commit -m "Bugfix #1"
+  - git push "Bugfix #1"
+
+
+5) Which command will allow you create a branch called feature/bugfix and switch to that branch at the same time?
+  - git checkout feature/bugfix
+  * git checkout -b feature/bugfix
+  - git branch -checkout feature/bugfix
+  - git branch -c feature/bugfix
+
+
+6) After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+  * username and email address
+  - username and password
+  - email address and password
+  - username and IP address
+
+
+7) Which command is not used to determine what branch you are on?
+  - git branch
+  - git status
+  * git current
+
+
+8) Which command will compare bugfix1 and bugfix2?
+  - git push remote --tags
+  - git merge bugfix1 bugfix2
+  * git diff bugfix1 bugfix2
+  - git diff master bugfix1
+
+
+9) Which command will download https://github.com/user1/awesome_repo.git to your local computer?
+  - git fork https://github.com/user1/awesome_repo.git
+  * git clone https://github.com/user1/awesome_repo.git
+  - git commit https://github.com/user1/awesome_repo.git
+  - git pull https://github.com/user1/awesome_repo.git
+
+
+10) Which command will incorporate changes from a remote repository into the current branch?
+  - git commit -m "Get latest changes"
+  * git pull
+  - git push
+  - git merge
+
+
+
