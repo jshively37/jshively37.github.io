@@ -88,3 +88,11 @@ url: https://jshively37.github.io/
   * git diff bugfix1 bugfix2
   - git diff master bugfix1
 
+
+13) How do you resolve a conflict in git?
+  - git automatically resolves conflicts
+  * edit the affected files, run git add, and then do a git commit
+  - run git add, and then do a git commit
+  - edit the affected files, and then do a git commit
+
+  https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line

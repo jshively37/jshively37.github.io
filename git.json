@@ -148,13 +148,28 @@
       "answers": [
         "git push remote --tags",
         "git merge bugfix1 bugfix2",
-        "git diff bugfix1 bugfix2"
+        "git diff bugfix1 bugfix2",
+        "git diff master bugfix1"
       ],
       "correct": {
         "index": 2
       },
       "number": 12,
       "prompt": "Which command will compare bugfix1 and bugfix2?"
+    },
+    {
+      "answers": [
+        "git automatically resolves conflicts",
+        "edit the affected files, run git add, and then do a git commit",
+        "run git add, and then do a git commit",
+        "edit the affected files, and then do a git commit"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line"
+      },
+      "number": 13,
+      "prompt": "How do you resolve a conflict in git?"
     }
   ],
   "title": "Git",
