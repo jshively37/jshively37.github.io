@@ -1,0 +1,162 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "git add .",
+        "git commit",
+        "git init",
+        "git bash"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 1,
+      "prompt": "Which of the following is the correct way to initialize a new Git repository?"
+    },
+    {
+      "answers": [
+        "git pull",
+        "git push",
+        "git commit",
+        "git fetch"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Which git command do you use to upload local repository content to a remote repository?"
+    },
+    {
+      "answers": [
+        "git add .",
+        "git add my_awesome_script.py",
+        "git add new",
+        "git push my_awesome_script.py"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "git add . will work but the request was just for a single file."
+      },
+      "number": 3,
+      "prompt": "Which command would you use to stage a single file called called my_awesome_script.py so we can commit it?"
+    },
+    {
+      "answers": [
+        "git commit .",
+        "git commit \"Bugfix #1\"",
+        "git commit -m \"Bugfix #1\"",
+        "git push \"Bugfix #1\""
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 4,
+      "prompt": "How you create a new commit with the message \"Bugfix #1\"?"
+    },
+    {
+      "answers": [
+        "git checkout feature/bugfix",
+        "git checkout -b feature/bugfix",
+        "git branch -checkout feature/bugfix",
+        "git branch -c feature/bugfix"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "Which command will allow you create a branch called feature/bugfix and switch to that branch at the same time?"
+    },
+    {
+      "answers": [
+        "username and email address",
+        "username and password",
+        "email address and password",
+        "username and IP address"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?"
+    },
+    {
+      "answers": [
+        "git branch",
+        "git status",
+        "git current"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "Which command is not used to determine what branch you are on?"
+    },
+    {
+      "answers": [
+        "git checkout -- oops.py",
+        "git rm --cached oops.py",
+        "git checkout --replace oops.py master",
+        "This feature does not exist."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 8,
+      "prompt": "You made an unneccessary change to oops.py in your working directory. What command would discard the uncommitted changes to oops.py?"
+    },
+    {
+      "answers": [
+        "git fork https://github.com/user1/awesome_repo.git",
+        "git clone https://github.com/user1/awesome_repo.git",
+        "git commit https://github.com/user1/awesome_repo.git",
+        "git pull https://github.com/user1/awesome_repo.git"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "Which command will download https://github.com/user1/awesome_repo.git to your local computer?"
+    },
+    {
+      "answers": [
+        "git commit -m \"Get latest changes\"",
+        "git pull",
+        "git push",
+        "git merge"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Which command will incorporate changes from a remote repository into the current branch?"
+    },
+    {
+      "answers": [
+        "git rm readme.MD",
+        "git rm --cached readme.MD",
+        "git rm -f readme.MD",
+        "Best way is just use explorer to move readme.MD to another directory, do a commit, and then move the file back."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "git rm -f will delete the file from the staging area and the disk. git rm --cached keeps the file on teh disk but removes from staging."
+      },
+      "number": 11,
+      "prompt": "You have done git add readme.MD. You would like to remove the file from the staging area but still keep it on disk. Which command do you use?"
+    },
+    {
+      "answers": [
+        "git push remote --tags",
+        "git merge bugfix1 bugfix2",
+        "git diff bugfix1 bugfix2"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 12,
+      "prompt": "Which command will compare bugfix1 and bugfix2?"
+    }
+  ],
+  "title": "Git",
+  "url": "https://jshively37.github.io/"
+}

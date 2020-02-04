@@ -54,11 +54,10 @@ url: https://jshively37.github.io/
   * git current
 
 
-8) Which command will compare bugfix1 and bugfix2?
-  - git push remote --tags
-  - git merge bugfix1 bugfix2
-  * git diff bugfix1 bugfix2
-  - git diff master bugfix1
+8) You made an unneccessary change to oops.py in your working directory. What command would discard the uncommitted changes to oops.py?  * git checkout -- oops.py
+  - git rm --cached oops.py
+  - git checkout --replace oops.py master
+  - This feature does not exist.
 
 
 9) Which command will download https://github.com/user1/awesome_repo.git to your local computer?
@@ -75,4 +74,17 @@ url: https://jshively37.github.io/
   - git merge
 
 
+11) You have done git add readme.MD. You would like to remove the file from the staging area but still keep it on disk. Which command do you use?
+  - git rm readme.MD
+  * git rm --cached readme.MD
+  - git rm -f readme.MD
+  - Best way is just use explorer to move readme.MD to another directory, do a commit, and then move the file back.
+
+  git rm -f will delete the file from the staging area and the disk. git rm --cached keeps the file on teh disk but removes from staging.
+
+12) Which command will compare bugfix1 and bugfix2?
+  - git push remote --tags
+  - git merge bugfix1 bugfix2
+  * git diff bugfix1 bugfix2
+  - git diff master bugfix1
 
